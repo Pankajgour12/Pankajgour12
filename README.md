@@ -19,14 +19,14 @@
 
 <br/>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pankajgour12&bg_color=000000&color=00f2ff&line=ff0055&point=ffffff&area=true&hide_border=true" width="80%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pankajgour12&bg_color=000000&color=00f2ff&line=ff0055&point=ffffff&area=true&hide_border=true" width="65%" />
 </div>
 
 <br/>
 
 ###  ACTIVITY
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Pankajgour12&theme=dark&background=0D1117&ring=00F2FF&border=FF0055&stroke=00FFCC&currstreak=00F2FF&fire=FF0055&sideNums=00F2FF&sideLabels=00FFCC&dates=FFFFFF" alt="GitHub Streak" width="80%" />
+  <img src="https://streak-stats.demolab.com/?user=Pankajgour12&theme=dark&background=0D1117&ring=00F2FF&border=FF0055&stroke=00FFCC&currstreak=00F2FF&fire=FF0055&sideNums=00F2FF&sideLabels=00FFCC&dates=FFFFFF" alt="GitHub Streak" width="60%" />
 
 <p align="end">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:FF8C00,50:FFB347,80:22F0FF,100:000000" width="100%"/>
@@ -40,11 +40,11 @@
 ## 🧠 Skills & Tools
 
 <details open>
-<summary><b>⚛️ FRONTEND SYSTEMS</b></summary>
+<summary><b>Frontend Development & UI Animation</b></summary>
 <br/>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,redux,threejs,html,css,js,bootstrap,materialui" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,redux,threejs,html,scss,js,bootstrap,materialui" />
 </p>
 
 <p align="center">
@@ -59,11 +59,11 @@
 
 
 <details>
-<summary><b>🛠 BACKEND ENGINE</b></summary>
+<summary><b>Backend Development & API Architecture</b></summary>
 <br/>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,postgres,graphql,prisma" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,postgres,graphql,prisma,api" />
 </p>
 
 <p align="center">
@@ -75,31 +75,36 @@
 <p align="end">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:FF8C00,50:FFB347,80:22F0FF,100:000000" width="100%"/>
 </p>
-
-
-
 <details>
-<summary><b>☁️ CLOUD & DEPLOYMENT</b></summary>
+<summary><b>AI Integration & LLM Ecosystem</b></summary>
 <br/>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,aws,vercel,netlify,linux,nginx" />
+  <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gemini-8E75FF?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-16A34A?style=for-the-badge&logo=chainlink&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-FF0080?style=for-the-badge&logo=markdown&logoColor=white"/>
 </p>
 
 <p align="center">
-<b>CI/CD Pipelines • Containerization • Hosting • Server Optimization</b>
+  <code> 
+<b>AI Integrations • RAG Pipelines • Prompt Logic • Agent Systems</b> </code>
 </p>
 
 </details>
-
 <p align="end">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:FF8C00,50:FFB347,80:22F0FF,100:000000" width="100%"/>
 </p>
 
 
 
+
+
+
+
 <details>
-<summary><b>🧪 TOOLS & WORKFLOW</b></summary>
+<summary><b>Development Tools & Workflow</b></summary>
 <br/>
 
 <p align="center">
@@ -119,26 +124,25 @@
 <p align="end">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:FF8C00,50:FFB347,80:22F0FF,100:000000" width="100%"/>
 </p>
-
-
-
 <details>
-<summary><b>🤖 AI & LLM ECOSYSTEM</b></summary>
+<summary><b>Cloud Infrastructure & Deployment</b></summary>
 <br/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gemini-8E75FF?style=for-the-badge&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-16A34A?style=for-the-badge&logo=chainlink&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-FF0080?style=for-the-badge&logo=markdown&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=docker,aws,vercel,netlify,linux,nginx" />
 </p>
 
 <p align="center">
-<b>AI Integrations • RAG Pipelines • Prompt Logic • Agent Systems</b>
+<b>CI/CD Pipelines • Containerization • Hosting • Server Optimization</b>
 </p>
 
 </details>
+
 <p align="end">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:FF8C00,50:FFB347,80:22F0FF,100:000000" width="100%"/>
 </p>
+
+
+
+
+
