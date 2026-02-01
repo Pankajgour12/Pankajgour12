@@ -3,17 +3,25 @@
 <!-- ================= HERO FUTURE ================= -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:000000,20:020617,50:00f2ff,80:ff0055,100:000000&text=PANKAJ%20GOUR&fontSize=45&fontColor=ffffff&animation=glitch&fontAlignY=38" width="100%"/>
-<br/>
-<!-- LAYER 2 — MOTION LINE (ILLUSION OF ANIMATION) -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=800&size=28&duration=2100&pause=320&color=FF8C00&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;AI+Integration;Clean+UI+%7C+Scalable+Backend;Building+Real+World+Products" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:0f172a,30:1e293b,60:10b981,85:8b5cf6,100:0f172a&text=Hello,%20I'm%20PANKAJ%20GOUR&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=40" width="100%"/>
 
-<p align="end">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:FF8C00,50:FFB347,80:22F0FF,100:000000" width="100%"/>
+<br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=800&size=24&duration=2000&pause=500&color=10b981&center=true&vCenter=true&width=800&lines=Full+Stack+Software+Engineer;MERN+Stack+%26+AI;Building+Scalable+Digital+Products;UI+Architect+%7C+Open+Source;" />
+
+<br/>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:10b981,50:8b5cf6,100:0f172a" width="100%"/>
 </p>
 
-
 </div>
+
+
+
+
+
+
 <!-- PROFILE VIEWS -->
 <img src="https://komarev.com/ghpvc/?username=Pankajgour12&label=Profile%20Views&color=0A66C2&style=flat" />
 
@@ -166,7 +174,7 @@
 <br/><br/>
 
 <!-- ANIME GIF -->
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="40%"/>
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="190"/>
 
 <br/><br/>
 
