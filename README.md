@@ -148,7 +148,57 @@
 </p>
 </div>
 
-<br/><br/><br/>
+<br/>
+
+
+
+
+
+<!-- ================= LETS CONNECT CLEAN FAST ================= -->
+
+
+### 🌠 Let’s Connect
+<div align="center">
+
+<!-- SUBTLE MOTION LINE -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=19&duration=2200&pause=450&color=38BDF8&center=true&vCenter=true&width=380&lines=Open+for+Collaborations;Available+for+Freelance;Let%27s+Build+Together"/>
+
+<br/><br/>
+
+<!-- ANIME GIF -->
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="40%"/>
+
+<br/><br/>
+
+<!-- SOCIAL ICON ROW FAST -->
+<a href="mailto:pankajgour5000@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/pankajgour404">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://x.com/Pankajgour404">
+  <img src="https://skillicons.dev/icons?i=twitter" height="40"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.instagram.com/pankaj_vimla_gour">
+  <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
+</a>
+
+<br/><br/>
+
+<p>Collaborations • Freelance • Product Builds</p>
+
+<br/>
+
+</div>
+
+
 
 
 <!-- NEON WAVE FOOTER -->
