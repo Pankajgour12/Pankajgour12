@@ -149,7 +149,7 @@
 
 ###  ACTIVITY
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Pankajgour12&theme=dark&background=0D1117&ring=00F2FF&border=FF0055&stroke=00FFCC&currstreak=00F2FF&fire=FF0055&sideNums=00F2FF&sideLabels=00FFCC&dates=FFFFFF" alt="GitHub Streak" width="60%" />
+  <img src="https://streak-stats.demolab.com/?user=Pankajgour12&theme=dark&background=0f172a&ring=10b981&fire=8b5cf6&currstreak=10b981&sideLabels=8b5cf6&dates=ffffff&sideNums=10b981&stroke=10b981&hide_border=true" width="75%" />
 
 <p align="end">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:FF8C00,50:FFB347,80:22F0FF,100:000000" width="100%"/>
@@ -197,20 +197,22 @@
 <a href="https://www.instagram.com/pankaj_vimla_gour">
   <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
 </a>
-
-<br/><br/>
-
-<p>Collaborations • Freelance • Product Builds</p>
-
 <br/>
+<br/><br/>
+<b>STATUS:</b> <span style="color: #b96a10;">ACTIVE_FOR_PROJECTS</span>
+</div>
+
+<br/><br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0f172a,50:10b981,85:8b5cf6,100:0f172a&section=footer" width="100%"/>
+
 
 </div>
 
 
 
 
-<!-- NEON WAVE FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=75&color=0:22F0FF,40:111827,70:FF6A00,100:000000&section=footer" width="100%"/>
+
 
 
 
