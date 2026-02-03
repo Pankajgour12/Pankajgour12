@@ -40,10 +40,23 @@
 <br/>
 
 
-
 <!-- ================= SKILLS & TOOLS COMMAND CENTER ================= -->
 
-## 🧠 Skills & Tools
+<div align="center">
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="55"> TECH STACK 
+
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+
+
+</div>
+
 
 <details open>
 <summary><b>Frontend Development & UI Animation</b></summary>
@@ -170,7 +183,7 @@
 <!-- ================= LETS CONNECT CLEAN FAST ================= -->
 
 
-### 🌠 Let’s Connect
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone%20Receiver.png" width="35" /> Let's Connect & Build Together!
 <div align="center">
 
 <!-- SUBTLE MOTION LINE -->
@@ -179,7 +192,7 @@
 <br/><br/>
 
 <!-- ANIME GIF -->
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="190"/>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 
 <br/><br/>
 
@@ -227,10 +240,14 @@
 
 
 </div>
+<!-- 3D CONTRIBUTION SNAKE -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
+</div>
 
-<br/><br/><br/>
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0f172a,50:10b981,85:8b5cf6,100:0f172a&section=footer" width="100%"/>
+
 
 <!-- FINAL BADGE -->
 <img src="https://img.shields.io/badge/Made%20with-❤️%20%26%20Coffee-ff69b4?style=for-the-badge" alt="Made with Love"/>
@@ -244,10 +261,10 @@
 <div align="center">
   <img src="https://count.getloli.com/get/@Pankajgour12?theme=rule34" alt="Visitor Counter"/>
 </div>
+<br/><br/><br/>
 
 
-
-
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=0,2,2,5,30&section=footer&text=Thanks%20For%20Visiting!&fontSize=20&fontColor=fff&animation=twinkling&fontAlignY=70" width="100%"/>
 
 
 
