@@ -11,9 +11,9 @@
 
 <br/>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:10b981,50:8b5cf6,100:0f172a" width="100%"/>
-</p>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
 
 </div>
 
@@ -27,7 +27,10 @@
 
 
 
- ###  CONTRIBUTION ACTIVITY
+
+
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">  CONTRIBUTION ACTIVITY
+
 
 <br/>
 <div align="center">
@@ -56,9 +59,9 @@
 
 </details>
 
-<p align="end">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:FF8C00,50:FFB347,80:22F0FF,100:000000" width="100%"/>
-</p>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
 
 
 <details>
@@ -143,9 +146,9 @@
 
 
 
-<p align="end">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:FF8C00,50:FFB347,80:22F0FF,100:000000" width="100%"/>
-</p>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
 
 ###  ACTIVITY
 <div align="center">
@@ -160,7 +163,9 @@
 
 
 
-
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
 
 <!-- ================= LETS CONNECT CLEAN FAST ================= -->
 
@@ -198,17 +203,47 @@
   <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
 </a>
 <br/>
-<br/><br/>
-<b>STATUS:</b> <span style="color: #b96a10;">ACTIVE_FOR_PROJECTS</span>
+
+### 💬 Currently Available For:
+
+```diff
++ 💼 Full-time Opportunities
++ 🤝 Freelance Projects
++ 🌟 Open Source Collaborations
++ 🎯 Interesting Tech Challenges
+```
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=50&lines=Let's+Build+Something+Amazing!+%F0%9F%9A%80;Drop+a+Message+%E2%9C%89%EF%B8%8F;Open+to+Collaboration+%F0%9F%A4%9D" alt="Footer Animation" />
+
+</div>
+
+<br/>
+
+
+
+
+
+
 </div>
 
 <br/><br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0f172a,50:10b981,85:8b5cf6,100:0f172a&section=footer" width="100%"/>
 
+<!-- FINAL BADGE -->
+<img src="https://img.shields.io/badge/Made%20with-❤️%20%26%20Coffee-ff69b4?style=for-the-badge" alt="Made with Love"/>
+
 
 </div>
+<!-- ========================================
+     VISITOR COUNTER
+     ======================================== -->
 
+<div align="center">
+  <img src="https://count.getloli.com/get/@Pankajgour12?theme=rule34" alt="Visitor Counter"/>
+</div>
 
 
 
