@@ -6,14 +6,15 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:0f172a,30:1e293b,60:10b981,85:8b5cf6,100:0f172a&text=Hello,%20I'm%20PANKAJ%20GOUR&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=40" width="100%"/>
 
 <br/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=800&size=24&duration=2000&pause=500&color=10b981&center=true&vCenter=true&width=800&lines=Full+Stack+Software+Engineer;MERN+Stack+%26+AI;Building+Scalable+Digital+Products;UI+Architect+%7C+Open+Source;" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=900&size=30&duration=2400&pause=650&color=34D399&center=true&vCenter=true&width=1000&lines=Building+Scalable+Digital+Experiences;Full+Stack+%7C+MERN+%7C+AI;Designing+Clean+UI+Architectures;Clean+Code+%26+Smart+Design" />
 
 <br/>
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
+
+
 
 </div>
 
@@ -55,113 +56,119 @@
 <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
 
 
-</div>
 
-
+<!-- FRONTEND SECTION -->
 <details open>
-<summary><b>Frontend Development & UI Animation</b></summary>
+<summary><h3>Frontend Development & UI Animation
+</h3></summary>
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80">
+
 <br/>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,redux,threejs,html,scss,js,bootstrap,materialui" />
-</p>
+| Category | Technologies |
+|----------|-------------|
+| **⚛️ Frameworks** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white) |
+| **📝 Languages** | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
+| **🎨 Styling** | ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white) ![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white) |
+| **⚡ State** | ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white) ![Context API](https://img.shields.io/badge/Context--API-000000?style=for-the-badge&logo=react&logoColor=61DAFB) |
 
-<p align="center">
-<b>UI Engineering • Responsive Layouts • Smooth Animations • Performance Optimization</b>
-</p>
+<br/>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,sass,redux,threejs,html,css,bootstrap,materialui&perline=6&theme=dark" />
+
+</div>
+<br/>
+</details>
+
+<!-- BACKEND SECTION -->
+<details>
+<summary><h3>⚙️ Backend Development </h3></summary>
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80">
+
+<br/><br/>
+
+| Category | Technologies |
+|----------|-------------|
+| **🚀 Runtime & Frameworks** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white) |
+| **🗄️ Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) |
+| **🔌 APIs** | ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![REST](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white) |
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,postgres,redis,graphql,prisma&perline=4&theme=dark" />
+
+</div>
 
 </details>
+
+<!-- AI SECTION -->
+<details>
+<summary><h3>🤖 AI Integration & LLM Ecosystem</h3></summary>
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="80">
+
+<br/><br/>
+
+| Category | Technologies |
+|----------|-------------|
+| **🧠 LLMs** | ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) ![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-181818?style=for-the-badge&logo=anthropic&logoColor=white) |
+| **🔗 Frameworks** | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white) |
+| **⚡ Techniques** | ![RAG](https://img.shields.io/badge/RAG_Pipelines-FF6F61?style=for-the-badge) ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-4A90E2?style=for-the-badge) |
+
+<br/>
+
+**💡 AI Specializations:**
+- Building RAG (Retrieval-Augmented Generation) systems
+- Fine-tuning LLMs for specific use cases
+- Creating AI-powered chatbots and assistants
+- Implementing vector databases and semantic search
+- Designing intelligent agent systems
+
+</div>
+
+</details>
+
+<!-- DEVOPS SECTION -->
+<details>
+<summary><h3>☁️ Cloud & DevOps - Infrastructure </h3></summary>
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80">
+
+<br/><br/>
+
+| Category | Technologies |
+|----------|-------------|
+| **☁️ Cloud Platforms** | ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) |
+| **🐳 Containers** | ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white) |
+| **🛠️ Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,nginx,vercel,netlify,git,github,postman,vscode,figma&perline=6&theme=dark" />
+
+</div>
+
+</details>
+
+<br/>
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 
-
-<details>
-<summary><b>Backend Development & API Architecture</b></summary>
 <br/>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,postgres,graphql,prisma,api" />
-</p>
-
-<p align="center">
-<b>REST APIs • Auth Systems • Scalable Architecture • Database Design</b>
-</p>
-
-</details>
-
-<p align="end">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:FF8C00,50:FFB347,80:22F0FF,100:000000" width="100%"/>
-</p>
-<details>
-<summary><b>AI Integration & LLM Ecosystem</b></summary>
-<br/>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gemini-8E75FF?style=for-the-badge&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-16A34A?style=for-the-badge&logo=chainlink&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-FF0080?style=for-the-badge&logo=markdown&logoColor=white"/>
-</p>
-
-<p align="center">
-  <code> 
-<b>AI Integrations • RAG Pipelines • Prompt Logic • Agent Systems</b> </code>
-</p>
-
-</details>
-<p align="end">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:FF8C00,50:FFB347,80:22F0FF,100:000000" width="100%"/>
-</p>
-
-
-
-
-
-
-
-<details>
-<summary><b>Development Tools & Workflow</b></summary>
-<br/>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma,prisma" />
-  <br/><br/>
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white"/>
-</p>
-
-<p align="center">
-<b>Debugging • API Testing • DB Modeling • UI/UX Prototyping</b>
-</p>
-
-</details>
-
-<p align="end">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:FF8C00,50:FFB347,80:22F0FF,100:000000" width="100%"/>
-</p>
-<details>
-<summary><b>Cloud Infrastructure & Deployment</b></summary>
-<br/>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,aws,vercel,netlify,linux,nginx" />
-</p>
-
-<p align="center">
-<b>CI/CD Pipelines • Containerization • Hosting • Server Optimization</b>
-</p>
-
-</details>
-
-
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
+
 
 ###  ACTIVITY
 <div align="center">
@@ -244,6 +251,9 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
 </div>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
 
 <br/>
 
@@ -259,12 +269,14 @@
      ======================================== -->
 
 <div align="center">
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="250" alt="Coding gif">
   <img src="https://count.getloli.com/get/@Pankajgour12?theme=rule34" alt="Visitor Counter"/>
 </div>
 <br/><br/><br/>
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=0,2,2,5,30&section=footer&text=Thanks%20For%20Visiting!&fontSize=20&fontColor=fff&animation=twinkling&fontAlignY=70" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=0,2,2,5,30&section=footer&text=Thanks%20For%20Visiting!&fontSize=20&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%"/>
+
 
 
 
