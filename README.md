@@ -170,16 +170,15 @@
 </div>
 
 
-###  ACTIVITY
+
+
+<h2 align="center">⚡ Activity ⚡</h2>
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Pankajgour12&theme=dark&background=0f172a&ring=10b981&fire=8b5cf6&currstreak=10b981&sideLabels=8b5cf6&dates=ffffff&sideNums=10b981&stroke=10b981&hide_border=true" width="75%" />
 
-<p align="end">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:FF8C00,50:FFB347,80:22F0FF,100:000000" width="100%"/>
-</p>
+<img src="https://streak-stats.demolab.com?user=Pankajgour12&theme=transparent&background=0d1117&ring=58A6FF&fire=F778BA&currStreakLabel=C9D1D9&sideNums=58A6FF&dates=8B949E&stroke=30363D&hide_border=true&v=20260220" width="78%" />
+
 </div>
-
-<br/>
 
 
 
