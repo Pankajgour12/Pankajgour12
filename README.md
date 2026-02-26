@@ -41,7 +41,7 @@
 <br/>
 
 
-<!-- ================= SKILLS & TOOLS COMMAND CENTER ================= -->
+<!-- ================= SKILLS & TOOLS COMMAND CENTER =============== -->
 
 <div align="center">
 
