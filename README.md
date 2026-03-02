@@ -2,11 +2,17 @@
 
 <!-- ================= HERO FUTURE ================= -->
 <div align="center">
+<h1 align="center">Pankaj Gour</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:0f172a,30:1e293b,60:10b981,85:8b5cf6,100:0f172a&text=Hello,%20I'm%20PANKAJ%20GOUR&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=40" width="100%"/>
+<p align="center">
+  Full Stack Developer
+</p>
 
-<br/>
- <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=900&size=30&duration=2400&pause=650&color=34D399&center=true&vCenter=true&width=1000&lines=Building+Scalable+Digital+Experiences;Full+Stack+%7C+MERN+%7C+AI;Designing+Clean+UI+Architectures;Clean+Code+%26+Smart+Design" />
+<p align="center">
+  Specializing in React, Next.js, Node.js & MongoDB  
+  Focused on performance, scalability and clean code.
+</p>
+
 
 <br/>
 
