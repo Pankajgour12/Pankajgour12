@@ -1,30 +1,32 @@
 
 
-<!-- ================= HERO FUTURE ================= -->
+<!-- ================= HERO SECTION ================= -->
 <div align="center">
-<h1 align="center">Pankaj Gour</h1>
 
-<p align="center">
-  Full Stack Developer
+<h1>Pankaj Gour</h1>
+
+<h3>
+Full Stack Developer (MERN)
+</h3>
+
+<p>
+I build scalable and high-performance web applications using modern technologies.  
+Focused on clean code, efficient systems, and real-world problem solving.
 </p>
 
-<p align="center">
-  Specializing in React, Next.js, Node.js & MongoDB  
-  Focused on performance, scalability and clean code.
+<br/>
+<!-- Typing Animation -->
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Building+Scalable+Web+Apps;MERN+Stack+;Clean+Code+Focused;Always+Learning+🚀" />
 </p>
-
 
 <br/>
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-</div>
-
-
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,mongodb,js,ts,git" />
+</p>
 
 </div>
-
-
 
 
 
