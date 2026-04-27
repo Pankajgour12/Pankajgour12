@@ -53,15 +53,19 @@ Focused on clean code, efficient systems, and real-world problem solving.
 
 <div align="center">
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="55"> TECH STACK 
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="55"> TECH STACK 
 
-<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+<p>
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65"/>
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="65"/>
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65"/>
+  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="65"/>
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="65"/>
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65"/>
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65"/>
+</p>
+
+</div>
 
 
 
